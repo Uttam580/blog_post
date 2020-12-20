@@ -1,1 +1,1 @@
-<img src="https://github.com/Uttam580/blog_post/blob/master/ioKoFAPlmI.gif" width="40" height="40" />
+<img src="https://github.com/Uttam580/blog_post/blob/master/ioKoFAPlmI.gif" width="600" height="600" />
